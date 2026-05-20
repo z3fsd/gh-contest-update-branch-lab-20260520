@@ -1,2 +1,2 @@
 line-one: base
-line-two: base
+line-two: collaborator branch
